@@ -52,5 +52,5 @@ This project uses the **PIMA Indians Diabetes Dataset**:
 
 The SVM model achieved satisfactory accuracy in predicting diabetes, showing how effective machine learning can be in early disease detection. Proper preprocessing, especially feature scaling, was essential for the model's performance. This project emphasizes how data-driven models can help in proactive health screening and decision-making.
 
-** This is a YouTube guided project were I got hands on experiance and more knowledge about Machine Learning and Models.
+** This is a YouTube guided project were I got hands on experiance and more knowledge about Machine Learning and Models. **
 
